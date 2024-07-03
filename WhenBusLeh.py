@@ -1,9 +1,12 @@
+import os
+from datetime import datetime
+
+import requests
+from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
-import requests
-import os
-import json
-from datetime import datetime
+
+load_dotenv()
 
 LTA_API_KEY = os.getenv('LTA_API_KEY')
 TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
