@@ -16,6 +16,6 @@ Perhaps in the future, I will explore the possibility of adding even more featur
 - [x] Implement bus function
 - [x] Implement template for help function
 - [x]  Get bus_timing function to work
-- []  Implement the actual help commands - how to use /start
+- [x]  Implement the actual help commands - how to use /start
 - []  Implement a get_bus_code function whereby it searches for the user's nearest bus stop and grabs the bus code
 
