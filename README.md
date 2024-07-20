@@ -15,7 +15,7 @@ Perhaps in the future, I will explore the possibility of adding even more featur
 - [x] Get API keys from LTA, and save as env variables so that they can be used in the code
 - [x] Implement bus function
 - [x] Implement template for help function
-- []  Get bus_timing function to work
+- [x]  Get bus_timing function to work
 - []  Implement the actual help commands - how to use /start
 - []  Implement a get_bus_code function whereby it searches for the user's nearest bus stop and grabs the bus code
 
