@@ -17,5 +17,9 @@ Perhaps in the future, I will explore the possibility of adding even more featur
 - [x] Implement template for help function
 - [x]  Get bus_timing function to work
 - [x]  Implement the actual help commands - how to use /start
-- []  Implement a get_bus_code function whereby it searches for the user's nearest bus stop and grabs the bus code
+- []  Implement a get_bus_code function whereby it searches for the user's nearest bus stop and grabs the bus code 
+  - [] Implement node-telegram-bot-api to grab user's longitude and latitude coordinates
+  - [] Write function that matches the nearest 5 bus-stops to the user's longitude and latitude
+  - [] Returns this 5 bus stop
+
 
